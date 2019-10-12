@@ -1,2 +1,2 @@
-# midtermwineQ
-Wine Quality app predict using flaskex, stripe and sklearn 
+# Qwine
+App predict using stripe, sklearn and flaskex
